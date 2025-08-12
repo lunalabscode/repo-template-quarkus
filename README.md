@@ -1,7 +1,4 @@
-![GitHub version](https://img.shields.io/github/v/release/hrzndev/repo-template-quarkus?include_prereleases&sort=semver&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues-raw/hrzndev/repo-template-quarkus?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/hrzndev/repo-template-quarkus?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/hrzndev/repo-template-quarkus?style=flat-square)
+# NOTE: THIS IS OLD STUFF, DO NOT USE IT (its here for archiving)
 
 <br/>
 
